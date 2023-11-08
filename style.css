@@ -1,0 +1,12 @@
+.js-subscribe-button {
+
+    padding: 10px 30px;
+    color: rgb(235, 72, 72);
+    background-color: rgba(240, 128, 16, 0.473);
+
+    font-weight: 900;
+    border-radius: 5px;
+    border: 0px;
+
+    margin: 2%;
+}
